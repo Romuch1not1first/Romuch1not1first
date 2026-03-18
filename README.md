@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-https://www.codewars.com/users/jhoffner/badges/micro
+![Codewars](https://www.codewars.com/users/jhoffner/badges/micro)
